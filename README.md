@@ -7,13 +7,13 @@
 
 ## แบบฝึกที่เปิดให้ทำได้เลย
 
-- [ป.6 คณิตศาสตร์ · สสวท ปีการศึกษา 2561](https://quiz.fannec.synology.me/quiz/custom-ipst-math-p6-2561/start)
-- [ป.6 วิทยาศาสตร์ · สสวท ปีการศึกษา 2562](https://quiz.fannec.synology.me/quiz/custom-ipst-sci-p6-2562/start)
+- [ป.6 คณิตศาสตร์ · สสวท ปีการศึกษา 2561](https://quiz.fannec.synology.me/quiz/custom-ipst-math-p6-2561/start?src=gh-repo)
+- [ป.6 วิทยาศาสตร์ · สสวท ปีการศึกษา 2562](https://quiz.fannec.synology.me/quiz/custom-ipst-sci-p6-2562/start?src=gh-repo)
 
 ## หน้ารวมแนวข้อสอบ
 
-- [เตรียมสอบ ป.6](https://quiz.fannec.synology.me/learn/p6-prep)
-- [ฝึก O-NET คณิตศาสตร์](https://quiz.fannec.synology.me/learn/onet-math)
+- [เตรียมสอบ ป.6](https://quiz.fannec.synology.me/learn/p6-prep?src=gh-repo)
+- [ฝึก O-NET คณิตศาสตร์](https://quiz.fannec.synology.me/learn/onet-math?src=gh-repo)
 
 ## ข้อสอบตัวจริงย้อนหลัง
 
